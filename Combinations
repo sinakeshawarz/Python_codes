@@ -1,0 +1,4 @@
+import itertools
+
+for c in itertools.combinations('SINA', 3):
+    print(c)
